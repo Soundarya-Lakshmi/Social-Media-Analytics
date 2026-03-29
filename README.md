@@ -41,7 +41,3 @@ To process nested JSON data and derive meaningful insights on how users interact
 - Certain URLs are shared multiple times, indicating popular content  
 - Variation in hashtag usage highlights different engagement behaviors  
 - External link sharing is a common pattern in tweet content  
-
----
-
-## 📁 Repository Structure
